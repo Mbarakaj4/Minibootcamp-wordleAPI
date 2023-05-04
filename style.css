@@ -16,6 +16,9 @@ body {
     border: 1px solid #ccc;
   }
      
+  #grid {
+    text-align: center;
+  }
   #guess-button {
     display: block;
     margin: 0 auto;
